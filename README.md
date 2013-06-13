@@ -8,7 +8,9 @@ for more information check : https://github.com/benkitzelman/google-ajax-crawler
 
 
 Install:
-    $ gem install google_ajax_crawler_phantomjs
+``` ruby
+$ gem install google_ajax_crawler_phantomjs
+```
 
 
 ## Usage
