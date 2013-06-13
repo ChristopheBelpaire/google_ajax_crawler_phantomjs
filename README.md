@@ -1,5 +1,7 @@
 # GoogleAjaxCrawlerPhantomjs
 
+[![Build Status](https://travis-ci.org/ChristopheBelpaire/google_ajax_crawler_phantomjs.png?branch=master)](https://travis-ci.org/ChristopheBelpaire/google_ajax_crawler_phantomjs)
+
 PhantomJS driver for the google_ajax_crawler gem: Rack Middleware adhering to the Google Ajax Crawling Scheme, using a headless browser to render JS heavy pages and serve a dom snapshot of the rendered state to a requesting search engine.
 
 for more information check : https://github.com/benkitzelman/google-ajax-crawler
